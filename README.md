@@ -142,17 +142,6 @@ Os logs são exibidos no terminal em tempo real:
 
 ---
 
-## 🚧 Roadmap
-
-* Suporte a anexos/mídia
-* Agendamento de mensagens
-* Confirmação de entrega via webhook
-* Painel de monitoramento web
-* Suporte a múltiplos templates
-* Sistema de filas para envio em massa
-
----
-
 ## 📂 Estrutura do Projeto
 
 ```
@@ -165,5 +154,5 @@ Os logs são exibidos no terminal em tempo real:
 └── README.md               # Documentação
 ```
 
-> Nota: Sempre teste com números de teste antes de enviar para contatos reais
+> Nota: Sempre teste com números de teste antes de enviar para contatos reais.
 > Respeite as políticas de uso do WhatsApp e da Z-API.
