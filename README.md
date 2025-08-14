@@ -165,5 +165,5 @@ Os logs são exibidos no terminal em tempo real:
 └── README.md               # Documentação
 ```
 
-> Nota: Sempre teste com números de teste antes de enviar para contatos reais; E no formato "+5511999999999"
+> Nota: Sempre teste com números de teste antes de enviar para contatos reais
 > Respeite as políticas de uso do WhatsApp e da Z-API.
